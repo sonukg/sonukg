@@ -15,13 +15,14 @@
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dagger](https://img.shields.io/badge/-Dagger-00C7B7?style=for-the-badge&logo=dagger&logoColor=white)
 ![Hilt](https://img.shields.io/badge/-Hilt-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/-Koin-34A853?style=for-the-badge&logo=koin&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-8E44AD?style=for-the-badge&logo=w3c&logoColor=white)
 ![Room](https://img.shields.io/badge/-Room-CC0000?style=for-the-badge)
 ![WorkManager](https://img.shields.io/badge/-WorkManager-263238?style=for-the-badge)
@@ -40,7 +41,7 @@
 ![OkHttp](https://img.shields.io/badge/-OkHttp-455A64?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST%20APIs-0091EA?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/firebasestorage-%84039BE5.svg?style=for-the-badge&logo=firebase) 
-![Firebase](https://img.shields.io/badge/firebasenotification-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Firebase](https://img.shields.io/badge/-Firebase_Notification-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 #### 🏗 Architecture & Design
 
@@ -48,23 +49,28 @@
 ![MVP](https://img.shields.io/badge/-MVP-4A148C?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/-MVI-1B5E20?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-FF6F00?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture%20Principles-FF6F00?style=for-the-badge)
 
 #### 🧪 Testing & Debugging
 
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge)
-![Espresso](https://img.shields.io/badge/-Espresso-795548?style=for-the-badge)
-![Mockito](https://img.shields.io/badge/-Mockito-512DA8?style=for-the-badge)
-![LeakCanary](https://img.shields.io/badge/-LeakCanary-FBC02D?style=for-the-badge)
-![Android Profiler](https://img.shields.io/badge/-Android%20Profiler-37474F?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Espresso](https://img.shields.io/badge/-Espresso-795548?style=for-the-badge&logo=espresso&logoColor=white)
+![Mockito](https://img.shields.io/badge/-Mockito-512DA8?style=for-the-badge&logo=mockito&logoColor=white)
+![LeakCanary](https://img.shields.io/badge/-LeakCanary-FBC02D?style=for-the-badge&logo=android&logoColor=white)
+![Android Profiler](https://img.shields.io/badge/-Android%20Profiler-37474F?style=for-the-badge&logo=androidprofiler&logoColor=white)
 
 #### ⚙️ Build & Tooling
 
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Bitrise](https://img.shields.io/badge/-Bitrise-683D87?style=for-the-badge&logo=bitrise)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-3DDC84?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 #### 📊 Analytics & Monitoring
 
@@ -79,23 +85,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
----
+### 💻 Learning Now:
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=for-the-badge&logo=Android&logoColor=green) 
 ![KMP](https://img.shields.io/badge/KMP-%2302578B.svg?style=for-the-badge&logo=kotlin&logoColor=blue) 
 ![Compose Multiplateform](https://img.shields.io/badge/CMP-%23F05033.svg?style=for-the-badge&logo=C&logoColor=green) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 ![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-
+---
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=sonukg alt=sonukg /> </p>
