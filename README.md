@@ -1,9 +1,22 @@
 ## Hey 👋, This is Sonu Kumar
+
+🌱 Passionate Senior Android Developer <br>
+📍 Based in Pune | 🌍 Open to remote and WFO roles  <br>
+🛠️ Specializing in Jetpack Compose, Kotlin, and building performant, scalable mobile apps
+
 ## You can view my resume 
+
 <a href='https://drive.google.com/file/d/19aszWJLVNo6bWsHX8ulEdmsZYpjMn_zt/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
 # 💫 About Me:
-🔭 I’m currently working on Android Projects<br>👯 I’m looking to collaborate on Android and Flutter Projects<br>🌱 I’m currently learning KMP, Compose Multiplateform, IOS Development (Swift | SwiftUI)<br>💬 Ask me about Technology and Mobile Development<br><br>
+
+🏆 Results-driven Android Developer with over 6 years of experience in designing and implementing innovative mobile applications. <br>
+🔭 Adept at collaborating with cross-functional teams to deliver user-centric solutions. <br>
+🎓 Passionate about leveraging cutting-edge technologies to enhance user engagement and satisfaction. <br>
+🚀 I’m currently working on Android Projects.<br>
+👯 I’m looking to collaborate on Android and Flutter Projects<br>
+🌱 I’m currently learning KMP, Compose Multiplateform, IOS Development (Swift | SwiftUI)<br>
+💬 Ask me about Technology and Mobile Development<br><br>
 
 
 ## 🌐 Socials:
@@ -11,7 +24,7 @@
 
 ## 🛠 Skills
 
-#### 🟢 Mobile Development
+#### 📱 Mobile Development
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -23,7 +36,7 @@
 ![Dagger](https://img.shields.io/badge/-Dagger-00C7B7?style=for-the-badge&logo=dagger&logoColor=white)
 ![Hilt](https://img.shields.io/badge/-Hilt-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Koin](https://img.shields.io/badge/-Koin-34A853?style=for-the-badge&logo=koin&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-8E44AD?style=for-the-badge&logo=w3c&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-8E44AD?style=for-the-badge&logo=xml&logoColor=white)
 ![Room](https://img.shields.io/badge/-Room-CC0000?style=for-the-badge)
 ![WorkManager](https://img.shields.io/badge/-WorkManager-263238?style=for-the-badge)
 ![ViewModel](https://img.shields.io/badge/-ViewModel-9C27B0?style=for-the-badge)
@@ -40,7 +53,7 @@
 ![Retrofit](https://img.shields.io/badge/-Retrofit-00796B?style=for-the-badge)
 ![OkHttp](https://img.shields.io/badge/-OkHttp-455A64?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST%20APIs-0091EA?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebasestorage-%84039BE5.svg?style=for-the-badge&logo=firebase) 
+![Firebase](https://img.shields.io/badge/Firebase_Storage-%84039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Firebase](https://img.shields.io/badge/-Firebase_Notification-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 #### 🏗 Architecture & Design
@@ -75,7 +88,7 @@
 #### 📊 Analytics & Monitoring
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Crashlytics](https://img.shields.io/badge/-Crashlytics-1E88E5?style=for-the-badge&logo=firebase)
+![Crashlytics](https://img.shields.io/badge/-Firebase_Crashlytics-1E88E5?style=for-the-badge&logo=firebase)
 
 #### 🧩 Productivity & Collaboration
 
@@ -85,7 +98,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### 💻 Learning Now:
+#### 💻 Learning Now
 
 ![KMP](https://img.shields.io/badge/KMP-%2302578B.svg?style=for-the-badge&logo=kotlin&logoColor=blue) 
 ![Compose Multiplateform](https://img.shields.io/badge/CMP-%23F05033.svg?style=for-the-badge&logo=C&logoColor=green) 
