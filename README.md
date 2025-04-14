@@ -100,10 +100,9 @@
 
 #### 💻 Learning Now
 
-![KMP](https://img.shields.io/badge/KMP-%2302578B.svg?style=for-the-badge&logo=kotlin&logoColor=blue) 
-![Compose Multiplateform](https://img.shields.io/badge/CMP-%23F05033.svg?style=for-the-badge&logo=C&logoColor=green) 
+![XCode](https://img.shields.io/badge/XCode-%23F05033.svg?style=for-the-badge&logo=xcode&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=blue) 
 
 ---
 
