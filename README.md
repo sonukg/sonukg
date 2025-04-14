@@ -1,7 +1,7 @@
 ## Hey 👋, This is Sonu Kumar
 
 🌱 Passionate Senior Android Developer <br>
-📍 Based in Pune | 🌍 Open to remote and WFO roles  <br>
+📍 Based in Pune | 🌍 Open to remote and wfo roles  <br>
 🛠️ Specializing in Jetpack Compose, Kotlin, and building performant, scalable mobile apps
 
 ## You can view my resume 
