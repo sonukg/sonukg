@@ -16,8 +16,10 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dagger](https://img.shields.io/badge/-Dagger-00C7B7?style=for-the-badge&logo=dagger&logoColor=white)
 ![Hilt](https://img.shields.io/badge/-Hilt-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-8E44AD?style=for-the-badge&logo=w3c&logoColor=white)
@@ -31,10 +33,14 @@
 ![ViewBinding](https://img.shields.io/badge/-ViewBinding-6D4C41?style=for-the-badge)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-00599C?style=for-the-badge)
 ![Kotlin Flow](https://img.shields.io/badge/-Kotlin%20Flow-283593?style=for-the-badge)
-![RxJava](https://img.shields.io/badge/-RxJava-B7178C?style=for-the-badge)
+![RxJava](https://img.shields.io/badge/-RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![RxAndroid](https://img.shields.io/badge/rxandroid-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) 
+![RxKotlin](https://img.shields.io/badge/rxkotlin-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) 
 ![Retrofit](https://img.shields.io/badge/-Retrofit-00796B?style=for-the-badge)
 ![OkHttp](https://img.shields.io/badge/-OkHttp-455A64?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST%20APIs-0091EA?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebasestorage-%84039BE5.svg?style=for-the-badge&logo=firebase) 
+![Firebase](https://img.shields.io/badge/firebasenotification-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 #### 🏗 Architecture & Design
 
@@ -42,16 +48,12 @@
 ![MVP](https://img.shields.io/badge/-MVP-4A148C?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/-MVI-1B5E20?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-FF6F00?style=for-the-badge)
-![KISS](https://img.shields.io/badge/-KISS%20Principle-00838F?style=for-the-badge)
-![YAGNI](https://img.shields.io/badge/-YAGNI-455A64?style=for-the-badge)
-![DRY](https://img.shields.io/badge/-DRY%20Principle-795548?style=for-the-badge)
 
 #### 🧪 Testing & Debugging
 
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge)
 ![Espresso](https://img.shields.io/badge/-Espresso-795548?style=for-the-badge)
-![MockK](https://img.shields.io/badge/-MockK-512DA8?style=for-the-badge)
-![Turbine](https://img.shields.io/badge/-Turbine-5D4037?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/-Mockito-512DA8?style=for-the-badge)
 ![LeakCanary](https://img.shields.io/badge/-LeakCanary-FBC02D?style=for-the-badge)
 ![Android Profiler](https://img.shields.io/badge/-Android%20Profiler-37474F?style=for-the-badge)
 
@@ -64,34 +66,35 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 
-#### ☁️ Backend & Cloud (Exposure)
-
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis)
-
 #### 📊 Analytics & Monitoring
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Crashlytics](https://img.shields.io/badge/-Crashlytics-1E88E5?style=for-the-badge)
-![Mixpanel](https://img.shields.io/badge/-Mixpanel-8E24AA?style=for-the-badge)
-![Looker](https://img.shields.io/badge/-Looker-0B9BD7?style=for-the-badge)
+![Crashlytics](https://img.shields.io/badge/-Crashlytics-1E88E5?style=for-the-badge&logo=firebase)
 
 #### 🧩 Productivity & Collaboration
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
 
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=for-the-badge&logo=Android&logoColor=green) ![KMP](https://img.shields.io/badge/KMP-%2302578B.svg?style=for-the-badge&logo=kotlin&logoColor=blue) ![Compose Multiplateform](https://img.shields.io/badge/CMP-%23F05033.svg?style=for-the-badge&logo=C&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![RxJava](https://img.shields.io/badge/rxjava-23026AA7.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![RxAndroid](https://img.shields.io/badge/rxandroid-23026AA7.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![RxKotlin](https://img.shields.io/badge/rxkotlin-23026AA7.svg?style=for-the-badge&logo=reactivex&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebasestorage-%84039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebasenotification-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebasecrashlytics-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%23026AA7.svg?style=for-the-badge&logo=Jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=for-the-badge&logo=Android&logoColor=green) 
+![KMP](https://img.shields.io/badge/KMP-%2302578B.svg?style=for-the-badge&logo=kotlin&logoColor=blue) 
+![Compose Multiplateform](https://img.shields.io/badge/CMP-%23F05033.svg?style=for-the-badge&logo=C&logoColor=green) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 
 
 ## Some of my Github Stats
