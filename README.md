@@ -56,7 +56,7 @@
 ![REST API](https://img.shields.io/badge/-REST%20APIs-0091EA?style=for-the-badge&logo=restapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Storage-%84039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Firebase](https://img.shields.io/badge/-Firebase_Notification-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Kotlin Ktor](https://img.shields.io/badge/-Kotlin_Ktor-%7F52FF.svg?style=for-the-badge&logo=kotlin) 
+![Kotlin Ktor](https://img.shields.io/badge/-Ktor-%7F52FF.svg?style=for-the-badge&logo=kotlin) 
 
 #### 🏗 Architecture & Design
 
@@ -107,8 +107,6 @@
 ![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=blue) 
 ![Springboot](https://img.shields.io/badge/springboot-F54A2A?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Kotlin Ktor](https://img.shields.io/badge/ktor-F54A2A?style=for-the-badge&logo=ktor&logoColor=white) 
-![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=blue) 
-![SwiftUi](https://img.shields.io/badge/swiftui-F54A2A?style=for-the-badge&logo=swift&logoColor=blue) 
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=sonukg alt=sonukg /> </p>
