@@ -56,7 +56,7 @@
 ![REST API](https://img.shields.io/badge/-REST%20APIs-0091EA?style=for-the-badge&logo=restapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Storage-%84039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Firebase](https://img.shields.io/badge/-Firebase_Notification-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Kotlin Ktor](https://img.shields.io/badge/-Kotlin Ktor-%7F52FF.svg?style=for-the-badge&logo=kotlin-ktor) 
+![Kotlin Ktor](https://img.shields.io/badge/-Kotlin_Ktor-%7F52FF.svg?style=for-the-badge&logo=kotlin-ktor) 
 
 #### 🏗 Architecture & Design
 
