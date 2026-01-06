@@ -100,7 +100,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-#### 💻 Secondary Skills
+## 💻 Secondary Skills
 
 ![XCode](https://img.shields.io/badge/XCode-%23F05033.svg?style=for-the-badge&logo=xcode&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
