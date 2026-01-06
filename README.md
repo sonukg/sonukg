@@ -22,7 +22,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonukumar97/) [![Gmail Badge](https://img.shields.io/badge/-sonukg97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sonukg97@gmail.com)](mailto:sonukg97@gmail.com) [![Github Badge](https://img.shields.io/badge/-sonukg-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sonukg/)](https://www.github.com/sonukg/)
 
-## 🛠 Skills
+## 🛠 Primery Skills
 
 #### 📱 Mobile Development
 
@@ -100,7 +100,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-#### 💻 Learning Now
+#### 💻 Secondary Skills
 
 ![XCode](https://img.shields.io/badge/XCode-%23F05033.svg?style=for-the-badge&logo=xcode&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
